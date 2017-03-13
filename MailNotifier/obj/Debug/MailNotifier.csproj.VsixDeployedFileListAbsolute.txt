@@ -1,0 +1,5 @@
+C:\Users\hp\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Vikas\MailNotifier\1.0\\MailNotifier.dll
+C:\Users\hp\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Vikas\MailNotifier\1.0\\S22.Imap.dll
+C:\Users\hp\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Vikas\MailNotifier\1.0\\MailNotifier.pkgdef
+C:\Users\hp\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Vikas\MailNotifier\1.0\\extension.vsixmanifest
+C:\Users\hp\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Vikas\MailNotifier\1.0\\MailNotifier.pdb
